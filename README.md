@@ -6,7 +6,9 @@
 - [github](https://github.com/mohammadhassan-iran/)
 - [PNU_3991_AR](https://github.com/mohammadhassan-iran/PNU_3991_AR)
 - [resume](https://mohammadhassan-iran.github.io/)
-- [SOP](https://mohammadhassan-iran.github.io/SOP/) 
+- [SOP](https://mohammadhassan-iran.github.io/SOP/)
+- [javascript Certificate](JS.pdf)
+- [HTML Certificate](HTML.pdf)
   
 ------------------
 
