@@ -14,7 +14,6 @@
 
 
 # گروه ها
-1. [G-U03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
 
 ------------------
 ## Winter Semester Courses 1399/2020
