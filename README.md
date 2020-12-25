@@ -10,6 +10,7 @@
 - [javascript Certificate](JS.pdf)
 - [HTML Certificate](HTML.pdf)
 - [Translation project](کار دانشجویی.pdf)
+- [Translation project](Translation.pdf)
 
   
 ------------------
