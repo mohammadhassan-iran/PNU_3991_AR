@@ -9,6 +9,8 @@
 - [SOP](https://mohammadhassan-iran.github.io/SOP/)
 - [javascript Certificate](JS.pdf)
 - [HTML Certificate](HTML.pdf)
+- [کار ترجمه دانشجویی](کار دانشجویی.pdf)
+
   
 ------------------
 
