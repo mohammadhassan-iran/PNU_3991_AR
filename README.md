@@ -11,6 +11,7 @@
 - [HTML مدرک](HTML.pdf)
 - [نمونه کار ترجمه مقاله از انگلیسی به فارسی](Translation.pdf)
 - [پچورک](Patchwork.png)
+- [اطلاعات بیشتر از پچورک](Patchwork.pdf)
 
 
   
