@@ -5,12 +5,12 @@
 ---
 - [github](https://github.com/mohammadhassan-iran/)
 - [PNU_3991_AR](https://github.com/mohammadhassan-iran/PNU_3991_AR)
-- [resume](https://mohammadhassan-iran.github.io/)
-- [SOP](https://mohammadhassan-iran.github.io/SOP/)
-- [javascript Certificate](JS.pdf)
-- [HTML Certificate](HTML.pdf)
+- [رزومه ی من](https://mohammadhassan-iran.github.io/)
+- [انگیزه نامه ی من](https://mohammadhassan-iran.github.io/SOP/)
+- [مدرک جاوا اسکریپت](JS.pdf)
+- [HTML مدرک](HTML.pdf)
 - [نمونه کار ترجمه مقاله از انگلیسی به فارسی](Translation.pdf)
-- [jlord patchwork](Patchwork.png)
+- [پچورک](Patchwork.png)
 
 
   
