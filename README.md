@@ -9,7 +9,7 @@
 - [SOP](https://mohammadhassan-iran.github.io/SOP/)
 - [javascript Certificate](JS.pdf)
 - [HTML Certificate](HTML.pdf)
-- [Translation project](Translation.pdf)
+- [نمونه کار ترجمه مقاله از انگلیسی به فارسی](Translation.pdf)
 - [jlord patchwork](Patchwork.png)
 
 
