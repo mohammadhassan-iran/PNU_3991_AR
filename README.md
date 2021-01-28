@@ -12,6 +12,7 @@
 - [نمونه کار ترجمه مقاله از انگلیسی به فارسی](Translation.pdf)
 - [پچورک](Patchwork.png)
 - [اطلاعات بیشتر از پچورک](Patchwork.pdf)
+- [گزارش کارآموزی](https://github.com/mohammadhassan-iran/PNU_3991_AR/blob/main/internship.pdf)
 
   
 ------------------
